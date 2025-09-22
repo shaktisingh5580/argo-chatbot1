@@ -1,0 +1,25 @@
+# Web Server
+fastapi
+uvicorn[standard]
+gunicorn
+python-multipart
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Data Handling
+pandas
+xarray
+netcdf4
+
+# AI & LangChain
+langchain
+langchain-openai
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+chromadb
+
+# Environment Variables
+python-dotenv
